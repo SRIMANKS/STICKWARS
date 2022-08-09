@@ -252,6 +252,9 @@ button:hover{
     .howtoplay div div{
         height: 120px;
     }
+    #howtoplay{
+        font-size: 2em;
+    }
     #content{
         height: 250px;
     }
